@@ -7,31 +7,31 @@ simplePHPmvc/
 ├── index.php
 ├── config.php
 ├── assets/
-│	└── lang/
-│		├── en.php
-│		├── fr.php
-│		└── lang.php
+│   └── lang/
+│       ├── en.php
+│       ├── fr.php
+│       └── lang.php
 ├── c/
-│	├── construct.php
-│	└── function.php
+│   ├── construct.php
+│   └── function.php
 ├── css/
-│	└── custom.css
+│   └── custom.css
 ├── img/
-│	├── favicon/
-│	│	├── ...
-│	│	├── ...
-│	│	└── ...
-│	└── logo.png
+│   ├── favicon/
+│   │   ├── ...
+│   │   ├── ...
+│   │   └── ...
+│   └── logo.png
 ├── js/
-│	└── custom.js
+│   └── custom.js
 └── v/
-	├── 404.php
-	├── footer.php
-	├── head.php
-	├── header.php
-	├── home.php
-	├── ...
-	└── ...
+   ├── 404.php
+   ├── footer.php
+   ├── head.php
+   ├── header.php
+   ├── home.php
+   ├── ...
+   └── ...
 ```
 --------------------------------------------------
 
