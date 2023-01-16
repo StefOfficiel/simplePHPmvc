@@ -1,5 +1,5 @@
 **[FR] Structure :**
-
+```
 Date : 16 Janvier 2023
 Version : 1.0.0
 
@@ -32,7 +32,7 @@ simplePHPmvc/
 	├── home.php
 	├── ...
 	└── ...
-
+```
 --------------------------------------------------
 
 ***Le fichier `index.php` contient :***
